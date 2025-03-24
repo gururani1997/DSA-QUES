@@ -5,4 +5,4 @@ let gts = arr.reduce((acc, red) => {
   else return red
 }, 0)
 
-console.log(gts)
+console.log(gts);
